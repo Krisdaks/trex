@@ -1,2 +1,2 @@
 # trex
-trex
+ Create Trex game repository
